@@ -83,3 +83,11 @@ GLPI_SOURCE_URL=https://forge.glpi-project.org/attachments/download/2020/glpi-0.
 
 - Run ```docker-compose build```
 - Run ```docker-compose up```
+
+
+Les identifiants et mots de passe par défaut sont :
+
+    glpi/glpi pour le compte administrateur
+    tech/tech pour le compte technicien
+    normal/normal pour le compte normal
+    post-only/postonly pour le compte postonly
